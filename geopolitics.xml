@@ -6,8 +6,14 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 13:44:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 14:07:12 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇷🇺 Rússia oferece diesel ilimitado aos EUA após acordo Trump-Putin; 1º petroleiro segue para Nova York</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">fe67fe7e3881645c</guid>
+<pubDate>Sun, 25 Oct 2026 13:36:42 +0000</pubDate>
+</item>
 <item>
 <title>🇸🇦 Defesas sauditas interceptam mísseis hutis perto de Meca e Medina; coalizão abate dezenas</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -19,6 +25,30 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">6add37af74b777ee</guid>
 <pubDate>Sun, 25 Oct 2026 13:22:59 +0000</pubDate>
+</item>
+<item>
+<title>🇩🇿 Argélia aprova 1º envio de tropas ao exterior desde 1973 para proteger petróleo no Níger</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f6f53304935f0673</guid>
+<pubDate>Sun, 25 Oct 2026 13:16:39 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Kremlin prepara cúpula Trump-Putin-Xi; Zelensky confirma reunião EUA-Rússia-Ucrânia em Abu Dhabi</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">435b5572adeb6ed7</guid>
+<pubDate>Sun, 25 Oct 2026 13:04:13 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã diz ter abatido drone americano LUCAS sobre Bandar Abbas, perto do Estreito de Ormuz</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">8e43994ea601a425</guid>
+<pubDate>Sun, 25 Oct 2026 12:41:12 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Drones ucranianos atingem AVISMA, maior fábrica de titânio para caças Su-35 e Su-57 da Rússia</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">0f9cc9ccf7f0edc3</guid>
+<pubDate>Sun, 25 Oct 2026 12:34:15 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇦 Deputado ucraniano confirma plano de paz de 2023 com concessões na Crimeia; Zelensky rejeitou</title>
