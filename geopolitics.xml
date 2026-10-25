@@ -6,121 +6,133 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 02:28:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 13:44:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇸🇦 Defesas sauditas interceptam mísseis hutis perto de Meca e Medina; coalizão abate dezenas</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">7e199098168c85a5</guid>
+<pubDate>Sun, 25 Oct 2026 13:23:19 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Presidente do Parlamento iraniano alerta: resposta a nova agressão será “além da imaginação”</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">6add37af74b777ee</guid>
+<pubDate>Sun, 25 Oct 2026 13:22:59 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Deputado ucraniano confirma plano de paz de 2023 com concessões na Crimeia; Zelensky rejeitou</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b087eab63c77c10f</guid>
+<pubDate>Sun, 25 Oct 2026 12:28:41 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Netanyahu alerta que Irã reiniciou ameaça nuclear e liga eleição à sobrevivência de Israel</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">26d69706762d8ea3</guid>
-<pubDate>Sun, 25 Oct 2026 02:28:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 EUA alertam embaixadas: Irã trama ataques a americanos; Trump diz que ataque “pode ser amanhã” ou acordo</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">2b47301d78855f52</guid>
-<pubDate>Sun, 25 Oct 2026 02:07:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Drones ucranianos atingem Belgorod, fecham aeroportos russos e deixam mortos e feridos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b95c67fc07d3aa06</guid>
-<pubDate>Sun, 25 Oct 2026 02:06:00 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇦 Sauditas se unem online após ataques hutis a instalações e aeroportos; defesas interceptam mísseis</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">0a9b2c8733f2f69a</guid>
-<pubDate>Sun, 25 Oct 2026 02:00:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Ucrânia ataca fábricas militares russas com mísseis e drones (Oryol, Samara, Omsk)</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b598db17a0fb4389</guid>
-<pubDate>Sun, 25 Oct 2026 01:48:00 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇦 Ataques aéreos sauditas em Sanaa matam crianças; pai exibe mochila da filha nos escombros</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">1e7a237805de4a36</guid>
-<pubDate>Sun, 25 Oct 2026 01:32:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump propõe tarifas de 200% a Ucrânia e Rússia para forçar paz; ucranianos reagem com indignação</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">a0394bf344fafa40</guid>
-<pubDate>Sun, 25 Oct 2026 00:55:00 +0000</pubDate>
+<guid isPermaLink="false">acb62da78dc34c75</guid>
+<pubDate>Sun, 25 Oct 2026 12:19:33 +0000</pubDate>
 </item>
 <item>
 <title>🇮🇳 Índia confirma confrontos com tropas chinesas em Arunachal Pradesh na LAC</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">50d9e1ce12ed47f6</guid>
-<pubDate>Sun, 25 Oct 2026 00:32:00 +0000</pubDate>
+<guid isPermaLink="false">254755e439d3f72b</guid>
+<pubDate>Sun, 25 Oct 2026 11:25:17 +0000</pubDate>
 </item>
 <item>
-<title>🇵🇸 Gaza enfrenta nova crise de fome: padarias fecham e WFP corta ajuda</title>
+<title>🇵🇸 Gaza enfrenta nova crise de fome: padarias fecham e PMA corta ajuda</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">fca13d03c53e57c3</guid>
-<pubDate>Sun, 25 Oct 2026 00:24:00 +0000</pubDate>
+<guid isPermaLink="false">592521262730e771</guid>
+<pubDate>Sun, 25 Oct 2026 04:45:42 +0000</pubDate>
 </item>
 <item>
-<title>🇺🇸 Porta-aviões EUA reabastece com bunker-busters no Mar Arábico em meio a tensão com Irã</title>
+<title>🇺🇦 Drones ucranianos atingem Belgorod e fecham aeroportos russos; Rússia intensifica bombardeios</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">51f082e576b0bef3</guid>
-<pubDate>Sat, 24 Oct 2026 23:10:00 +0000</pubDate>
+<guid isPermaLink="false">3fd914898250705e</guid>
+<pubDate>Sun, 25 Oct 2026 02:06:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Ucrânia ataca fábricas militares russas com mísseis e drones (Oryol, Samara, Omsk)</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">a2cb6c55418596da</guid>
+<pubDate>Sun, 25 Oct 2026 01:48:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump propõe tarifas de 200% a Ucrânia e Rússia para forçar paz; ucranianos reagem com indignação</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">538dd5d26a838468</guid>
+<pubDate>Sun, 25 Oct 2026 00:55:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Porta-aviões dos EUA reabastece com bunker-busters no Mar Arábico em meio a tensão com Irã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">de6f52f81c8e5c20</guid>
+<pubDate>Sat, 24 Oct 2026 23:10:41 +0000</pubDate>
 </item>
 <item>
 <title>🇮🇷 Guarda Revolucionária do Irã ataca com drones base do Komala no Curdistão iraquiano</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">95352cba0cea4927</guid>
-<pubDate>Sat, 24 Oct 2026 21:38:00 +0000</pubDate>
+<guid isPermaLink="false">cd5cbead2df26cce</guid>
+<pubDate>Sat, 24 Oct 2026 21:38:27 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã ameaça atacar aeroportos, oleodutos e cabos submarinos no Golfo se EUA ou Israel atacarem</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">4094aeb66c60f5aa</guid>
+<pubDate>Sat, 24 Oct 2026 19:00:28 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 EUA atualizam alertas de viagem no Oriente Médio após mísseis hutis contra alvos sauditas</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">3b7ec1b4274331e7</guid>
+<guid isPermaLink="false">8b08ee3feae87d7b</guid>
 <pubDate>Sat, 24 Oct 2026 18:54:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Zelensky: Ucrânia recebeu só 24 mísseis Patriot dos EUA em 90 dias; precisa de 350 por mês</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d663961af260041c</guid>
+<pubDate>Sat, 24 Oct 2026 17:13:55 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇦 Ucrânia atinge planta petroquímica russa ligada a combustível de mísseis em Tolyatti</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">a5ccacf597ad081f</guid>
+<guid isPermaLink="false">75557bdd7a4a2951</guid>
 <pubDate>Sat, 24 Oct 2026 16:10:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump alerta novo ataque ao Irã se não houver acordo; Teerã ameaça cortar cabos no Golfo</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b6eeb73d443f70b7</guid>
+<pubDate>Sat, 24 Oct 2026 13:23:06 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇦 Drones ucranianos fecham os quatro grandes aeroportos de Moscou</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">f6637da50a2271ff</guid>
-<pubDate>Sat, 24 Oct 2026 00:15:00 +0000</pubDate>
+<guid isPermaLink="false">9b803daee1f6fd65</guid>
+<pubDate>Sat, 24 Oct 2026 00:15:28 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Novo plano de paz dos EUA para Ucrânia gera crítica: zona desmilitarizada e alívio de sanções à Rússia</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">e9e39255d70b46b0</guid>
-<pubDate>Fri, 23 Oct 2026 22:02:00 +0000</pubDate>
+<guid isPermaLink="false">bddddc4b6cb38a6b</guid>
+<pubDate>Fri, 23 Oct 2026 22:02:18 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Trump: EUA podem encerrar conflito com Irã “muito rápido” ou deixar “morrer aos poucos”</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">df1c2177a5650172</guid>
-<pubDate>Fri, 23 Oct 2026 19:05:00 +0000</pubDate>
+<guid isPermaLink="false">8ef4721f441533eb</guid>
+<pubDate>Fri, 23 Oct 2026 19:05:45 +0000</pubDate>
 </item>
 <item>
 <title>🇷🇺 Putin rejeita congelar a frente com a Ucrânia e exige todo o Donbass</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">45ea238957c56cb2</guid>
-<pubDate>Fri, 23 Oct 2026 16:51:00 +0000</pubDate>
+<guid isPermaLink="false">ddbc79d32fe4dc64</guid>
+<pubDate>Fri, 23 Oct 2026 16:51:01 +0000</pubDate>
 </item>
 <item>
 <title>🇵🇸 Hamas envia ameaça de novo ataque estilo 7 de outubro via ONU; Israel alerta liderança</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">f9c98f65e447826a</guid>
-<pubDate>Fri, 23 Oct 2026 14:47:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Zelensky se diz aberto a cessar-fogo nas linhas atuais, com garantias de segurança</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b8c8d948293f576b</guid>
-<pubDate>Fri, 23 Oct 2026 03:51:00 +0000</pubDate>
+<guid isPermaLink="false">53d2b15d7067b9af</guid>
+<pubDate>Fri, 23 Oct 2026 14:47:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
