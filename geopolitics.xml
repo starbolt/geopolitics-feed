@@ -6,13 +6,25 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 19:06:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 20:06:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Zelensky rejeita exigências russas sobre exército, neutralidade e território e descarta troca de terras proposta pelos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">124838a1401a6248</guid>
+<pubDate>Sun, 25 Oct 2026 19:45:20 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Israel lança grande operação em Hebron após ataque que matou dois soldados; milhares de palestinos desalojados às vésperas da eleição</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">79dff5cd17860b7d</guid>
 <pubDate>Sun, 25 Oct 2026 18:59:54 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz que escolha é “acordo ou acabar com eles” no Irã; Bloomberg aponta possível ataque após as eleições de meio de mandato</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b3bb579932171c21</guid>
+<pubDate>Sun, 25 Oct 2026 18:51:49 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Pentágono lança plano FORTRESS: bases dos EUA devem operar 90 dias sem energia, água ou combustível civis</title>
