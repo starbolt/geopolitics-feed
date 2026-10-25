@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 16:05:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 17:05:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇷 Irã avisa Alemanha que suas bases na região serão alvos se Berlim aderir a ataque; mísseis em exercícios por todo o país</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">960e1b14244100cf</guid>
+<pubDate>Sun, 25 Oct 2026 16:46:36 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz que “não haverá ataque ao Irã hoje” e que negociação entre EUA, Rússia e Ucrânia sai “muito em breve”</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b73b6fcbf45bb94e</guid>
+<pubDate>Sun, 25 Oct 2026 16:45:24 +0000</pubDate>
+</item>
 <item>
 <title>🇶🇦 Mediadores do Catar chegam a Teerã com mensagens dos EUA para tentar evitar novo ataque ao Irã</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -193,12 +205,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">8ef4721f441533eb</guid>
 <pubDate>Fri, 23 Oct 2026 19:05:45 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇺 Putin rejeita congelar a frente com a Ucrânia e exige todo o Donbass</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">ddbc79d32fe4dc64</guid>
-<pubDate>Fri, 23 Oct 2026 16:51:01 +0000</pubDate>
 </item>
 </channel>
 </rss>
