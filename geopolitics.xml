@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 17:05:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:05:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Pentágono lança plano FORTRESS: bases dos EUA devem operar 90 dias sem energia, água ou combustível civis</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2dc7fa1bd736d0a7</guid>
+<pubDate>Sun, 25 Oct 2026 17:57:58 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Musk acusa elite ucraniana de lucrar com ajuda e apoia saída de Zelensky em meio a briga sobre uso militar da Starlink</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">69cb2ccd573cac6d</guid>
+<pubDate>Sun, 25 Oct 2026 17:14:36 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Putin culpa líderes europeus por onda de protestos na França, Espanha e Portugal e nega interferência russa</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">223dfb3fca2a7a26</guid>
+<pubDate>Sun, 25 Oct 2026 16:54:07 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇷 Irã avisa Alemanha que suas bases na região serão alvos se Berlim aderir a ataque; mísseis em exercícios por todo o país</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
