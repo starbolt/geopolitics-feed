@@ -6,13 +6,43 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 21:14:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 22:08:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇾🇪 Houthis dizem ter disparado dezenas de mísseis balísticos contra aeroporto e bases militares em Riad; aeroporto reabre só parcialmente</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">ffc952cb352b1bb0</guid>
+<pubDate>Sun, 25 Oct 2026 21:50:52 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz ter dois relatórios de inteligência “muito diferentes” sobre o Irã; memorando alerta para planos iranianos contra alvos e diplomatas dos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">888188505299cd6b</guid>
+<pubDate>Sun, 25 Oct 2026 21:31:18 +0000</pubDate>
+</item>
+<item>
+<title>🇻🇪 María Corina Machado volta à Venezuela após quase um ano no exílio, depois de negociações apoiadas pelos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">32c2d686703319d7</guid>
+<pubDate>Sun, 25 Oct 2026 21:11:16 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Netanyahu ameaça Irã com resposta “mais forte do que imaginam” se houver ataque para atrapalhar a eleição; TV diz que chefe das FDI, Zamir, resiste a atacar antes da votação</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">b9a5a08757e85606</guid>
 <pubDate>Sun, 25 Oct 2026 20:50:10 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Comandante do CENTCOM sobrevoa o Estreito de Ormuz e diz que rotas principais estão livres de minas iranianas</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">23bb0b9686948e80</guid>
+<pubDate>Sun, 25 Oct 2026 20:42:22 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz que Taiwan “roubou” a indústria de chips dos EUA; Taipé rebate</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2c07d175a78df5de</guid>
+<pubDate>Sun, 25 Oct 2026 20:21:13 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇦 Zelensky rejeita exigências russas sobre exército, neutralidade e território e descarta troca de terras proposta pelos EUA</title>
@@ -241,12 +271,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">9b803daee1f6fd65</guid>
 <pubDate>Sat, 24 Oct 2026 00:15:28 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Novo plano de paz dos EUA para Ucrânia gera crítica: zona desmilitarizada e alívio de sanções à Rússia</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">bddddc4b6cb38a6b</guid>
-<pubDate>Fri, 23 Oct 2026 22:02:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
