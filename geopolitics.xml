@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 14:07:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 15:10:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Ucrânia usa mísseis Storm Shadow contra fábrica Energiya em Yelets, que fornece baterias para mísseis russos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">69c1bea83488227c</guid>
+<pubDate>Sun, 25 Oct 2026 15:02:38 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz que ataque ao Irã pode vir “amanhã” ou virar acordo; 3º porta-aviões e fuzileiros navais a caminho</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d3c4f20b1c78885b</guid>
+<pubDate>Sun, 25 Oct 2026 14:55:45 +0000</pubDate>
+</item>
+<item>
+<title>🇬🇧 Reino Unido alerta para risco de guerra em cerca de 1.000 dias e pede que famílias estoquem suprimentos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f57737317e84a47a</guid>
+<pubDate>Sun, 25 Oct 2026 14:12:09 +0000</pubDate>
+</item>
 <item>
 <title>🇷🇺 Rússia oferece diesel ilimitado aos EUA após acordo Trump-Putin; 1º petroleiro segue para Nova York</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -157,12 +175,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">ddbc79d32fe4dc64</guid>
 <pubDate>Fri, 23 Oct 2026 16:51:01 +0000</pubDate>
-</item>
-<item>
-<title>🇵🇸 Hamas envia ameaça de novo ataque estilo 7 de outubro via ONU; Israel alerta liderança</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">53d2b15d7067b9af</guid>
-<pubDate>Fri, 23 Oct 2026 14:47:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
