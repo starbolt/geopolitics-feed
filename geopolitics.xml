@@ -6,8 +6,14 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 18:05:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 19:06:25 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇱 Israel lança grande operação em Hebron após ataque que matou dois soldados; milhares de palestinos desalojados às vésperas da eleição</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">79dff5cd17860b7d</guid>
+<pubDate>Sun, 25 Oct 2026 18:59:54 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇸 Pentágono lança plano FORTRESS: bases dos EUA devem operar 90 dias sem energia, água ou combustível civis</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -19,6 +25,12 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">69cb2ccd573cac6d</guid>
 <pubDate>Sun, 25 Oct 2026 17:14:36 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇱 Netanyahu teria mandado apoiar pedido da Argentina por negociação das Malvinas; Reino Unido reage e Israel nega</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d248d57e30fabf2a</guid>
+<pubDate>Sun, 25 Oct 2026 16:54:21 +0000</pubDate>
 </item>
 <item>
 <title>🇷🇺 Putin culpa líderes europeus por onda de protestos na França, Espanha e Portugal e nega interferência russa</title>
@@ -217,12 +229,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">bddddc4b6cb38a6b</guid>
 <pubDate>Fri, 23 Oct 2026 22:02:18 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump: EUA podem encerrar conflito com Irã “muito rápido” ou deixar “morrer aos poucos”</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">8ef4721f441533eb</guid>
-<pubDate>Fri, 23 Oct 2026 19:05:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
