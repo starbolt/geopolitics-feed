@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 26 Oct 2026 17:12:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 18:05:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Zelensky avisa que Kiev vai reagir se grandes economias europeias aliviarem sanções contra a Rússia ou retomarem a compra de gás e petróleo russos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">1a159731f4970123</guid>
+<pubDate>Mon, 26 Oct 2026 17:56:54 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇳 Guterres alerta para “espectro de limpeza étnica” na Cisjordânia com avanço de assentamentos israelenses, despejos e recorde de ataques de colonos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">68a963fde864702f</guid>
+<pubDate>Mon, 26 Oct 2026 17:47:27 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump chama a Noruega de “país de merda” em comício por não ter ganhado o Nobel da Paz e diz que não quer imigrantes noruegueses nos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">88d50188f5e00eb4</guid>
+<pubDate>Mon, 26 Oct 2026 17:33:54 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã recusa negociar programa nuclear antes que os EUA suspendam sanções, bloqueio naval e congelamento de bens iranianos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">4e0a2d1a252c768b</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:09 +0000</pubDate>
+</item>
 <item>
 <title>🇬🇧 Reino Unido sanciona 15 comandantes da RSF e do Exército do Sudão por atrocidades em El Fasher, um ano após a queda da cidade</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -31,6 +55,12 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">e22b5727f283b25c</guid>
 <pubDate>Mon, 26 Oct 2026 16:26:28 +0000</pubDate>
+</item>
+<item>
+<title>🇬🇧 Premiê britânico Andy Burnham promete gastos de defesa de 3% do PIB até 2030 após governo alertar para risco de guerra em cerca de 1.000 dias</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2b1911da24443514</guid>
+<pubDate>Mon, 26 Oct 2026 16:25:49 +0000</pubDate>
 </item>
 <item>
 <title>🇫🇷 França amplia seu escudo nuclear a dez aliados europeus, incluindo Reino Unido, Alemanha, Polônia e países nórdicos, com caças Rafale de capacidade nuclear, exercícios conjuntos e retomada da produção de ogivas</title>
@@ -415,12 +445,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">8b08ee3feae87d7b</guid>
 <pubDate>Sat, 24 Oct 2026 18:54:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Zelensky: Ucrânia recebeu só 24 mísseis Patriot dos EUA em 90 dias; precisa de 350 por mês</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d663961af260041c</guid>
-<pubDate>Sat, 24 Oct 2026 17:13:55 +0000</pubDate>
 </item>
 </channel>
 </rss>
