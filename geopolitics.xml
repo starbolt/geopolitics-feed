@@ -6,8 +6,14 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 25 Oct 2026 23:03:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 00:03:55 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Trump volta a declarar apoio a Netanyahu às vésperas da eleição em Israel, algo inédito para um presidente americano em exercício, e pede vitória para “terminar o trabalho” contra o Irã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">fdc92011e0d458d2</guid>
+<pubDate>Sun, 25 Oct 2026 23:03:10 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇳 EUA incentivam Orbán a disputar cargo de secretário-geral da ONU com possível apoio de Rússia e China, diz WSJ</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
