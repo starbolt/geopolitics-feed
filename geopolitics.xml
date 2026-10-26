@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 26 Oct 2026 00:03:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 01:10:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇧🇷 Lula é reeleito presidente do Brasil com 51,76% dos votos e garante quarto mandato; campanha de Bolsonaro deve contestar resultado na Justiça após extensão do horário de votação</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">bb8f601821331a29</guid>
+<pubDate>Mon, 26 Oct 2026 00:23:41 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇦 Aviões militares da Arábia Saudita pousam em Teerã com delegação para negociar Iêmen e risco de escalada, em meio a ataques dos houthis contra o reino</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">1271b2d971a06f15</guid>
+<pubDate>Sun, 25 Oct 2026 23:35:35 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇸 Trump volta a declarar apoio a Netanyahu às vésperas da eleição em Israel, algo inédito para um presidente americano em exercício, e pede vitória para “terminar o trabalho” contra o Irã</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -289,12 +301,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">b6eeb73d443f70b7</guid>
 <pubDate>Sat, 24 Oct 2026 13:23:06 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Drones ucranianos fecham os quatro grandes aeroportos de Moscou</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">9b803daee1f6fd65</guid>
-<pubDate>Sat, 24 Oct 2026 00:15:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
