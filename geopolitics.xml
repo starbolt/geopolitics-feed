@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 18:13:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:08:45 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇬🇧 Reino Unido eleva alerta de viagem para 15 países do Oriente Médio, incluindo Israel, Irã, Egito, Jordânia, Catar e Emirados, citando alto risco de escalada repentina</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">e5b0b44959403454</guid>
+<pubDate>Tue, 27 Oct 2026 19:06:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Míssil russo atinge a ponte Pivdennyi, em Kiev, danificando a linha do metrô e fechando o tráfego nos dois sentidos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">a3ddf5f578af7abb</guid>
+<pubDate>Tue, 27 Oct 2026 19:03:08 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Comando Sul dos EUA retoma ataques a barcos de suposto narcotráfico e mata cinco no Pacífico oriental, primeira ação desde 23 de agosto</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">ad3b228f3399fc7f</guid>
+<pubDate>Tue, 27 Oct 2026 18:52:41 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Autoridade do Estreito de Ormuz do Irã aponta a sul-coreana Sinokor, maior frota de superpetroleiros do mundo, como principal infratora e ameaça medidas legais contra todos os seus navios a partir de 1º de novembro</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">df06526336aa6f39</guid>
+<pubDate>Tue, 27 Oct 2026 18:41:44 +0000</pubDate>
+</item>
 <item>
 <title>🇬🇧 Secretário de Defesa do Reino Unido, Wes Streeting, diz que o país tem pouco mais de mil dias para estar pronto para uma guerra, com meta de poder lutar e vencer até 2030 diante da ameaça russa</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -493,18 +517,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">124838a1401a6248</guid>
 <pubDate>Sun, 25 Oct 2026 19:45:20 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Israel lança grande operação em Hebron após ataque que matou dois soldados; milhares de palestinos desalojados às vésperas da eleição</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">79dff5cd17860b7d</guid>
-<pubDate>Sun, 25 Oct 2026 18:59:54 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump diz que escolha é “acordo ou acabar com eles” no Irã; Bloomberg aponta possível ataque após as eleições de meio de mandato</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b3bb579932171c21</guid>
-<pubDate>Sun, 25 Oct 2026 18:51:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
