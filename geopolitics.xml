@@ -6,13 +6,37 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 16:13:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:14:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇪 Governo da Irlanda avança projeto para reformar ou abolir a “tripla trava” que limita o envio de tropas ao exterior; críticos veem fim da neutralidade e pedem plebiscito</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">00a3c32df598831a</guid>
+<pubDate>Tue, 27 Oct 2026 17:13:01 +0000</pubDate>
+</item>
+<item>
+<title>🇾🇪 Houthis dizem ter atingido o Ministério da Defesa saudita em Riad com mísseis balísticos; petróleo Brent se aproxima de US$ 116 com a escalada</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b884758e11b33d38</guid>
+<pubDate>Tue, 27 Oct 2026 16:50:30 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇸 Três petroleiros russos com 140 mil toneladas de diesel seguem para os EUA, primeira importação desde a proibição de 2022, graças a isenção de sanções ligada a acordo de Trump com Putin; senadores dos dois partidos reagem</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">d958556282425a2c</guid>
 <pubDate>Tue, 27 Oct 2026 15:55:37 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇴 Al-Shabaab embosca coluna de tropas de elite da Somália perto de Leego e mata dezenas de soldados, em grande revés da ofensiva do governo contra o grupo</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">aec73e68bc78d281</guid>
+<pubDate>Tue, 27 Oct 2026 15:54:49 +0000</pubDate>
+</item>
+<item>
+<title>🇵🇰 Forças do Paquistão e do Talibã afegão trocam fogo na fronteira de Angoor Adda após míssil disparado do Afeganistão; Islamabad diz ter destruído postos talibãs</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">4fb6a265abfaba1b</guid>
+<pubDate>Tue, 27 Oct 2026 15:04:42 +0000</pubDate>
 </item>
 <item>
 <title>🇮🇷 Reza Pahlavi lança campanha nacional para “salvar o Irã” e pede que militares e policiais rompam com o regime em troca de anistia</title>
@@ -475,36 +499,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">2dc7fa1bd736d0a7</guid>
 <pubDate>Sun, 25 Oct 2026 17:57:58 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Musk acusa elite ucraniana de lucrar com ajuda e apoia saída de Zelensky em meio a briga sobre uso militar da Starlink</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">69cb2ccd573cac6d</guid>
-<pubDate>Sun, 25 Oct 2026 17:14:36 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Netanyahu teria mandado apoiar pedido da Argentina por negociação das Malvinas; Reino Unido reage e Israel nega</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d248d57e30fabf2a</guid>
-<pubDate>Sun, 25 Oct 2026 16:54:21 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇺 Putin culpa líderes europeus por onda de protestos na França, Espanha e Portugal e nega interferência russa</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">223dfb3fca2a7a26</guid>
-<pubDate>Sun, 25 Oct 2026 16:54:07 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Irã avisa Alemanha que suas bases na região serão alvos se Berlim aderir a ataque; mísseis em exercícios por todo o país</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">960e1b14244100cf</guid>
-<pubDate>Sun, 25 Oct 2026 16:46:36 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump diz que “não haverá ataque ao Irã hoje” e que negociação entre EUA, Rússia e Ucrânia sai “muito em breve”</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b73b6fcbf45bb94e</guid>
-<pubDate>Sun, 25 Oct 2026 16:45:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
