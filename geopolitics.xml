@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 15:07:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 16:13:16 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Três petroleiros russos com 140 mil toneladas de diesel seguem para os EUA, primeira importação desde a proibição de 2022, graças a isenção de sanções ligada a acordo de Trump com Putin; senadores dos dois partidos reagem</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d958556282425a2c</guid>
+<pubDate>Tue, 27 Oct 2026 15:55:37 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Reza Pahlavi lança campanha nacional para “salvar o Irã” e pede que militares e policiais rompam com o regime em troca de anistia</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">1e1716026f1712a9</guid>
+<pubDate>Tue, 27 Oct 2026 14:51:18 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Putin propõe cooperação com os EUA em projetos de gás no Ártico durante cúpula de exportadores de gás em Moscou</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">39a6b20e4a5c65ec</guid>
+<pubDate>Tue, 27 Oct 2026 14:31:50 +0000</pubDate>
+</item>
 <item>
 <title>🇾🇪 Houthis dizem ter atingido com mísseis balísticos dois aviões militares sauditas, no aeroporto de Najran e na base aérea King Khalid, em Khamis Mushait; Riad não confirma danos</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -487,30 +505,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">b73b6fcbf45bb94e</guid>
 <pubDate>Sun, 25 Oct 2026 16:45:24 +0000</pubDate>
-</item>
-<item>
-<title>🇶🇦 Mediadores do Catar chegam a Teerã com mensagens dos EUA para tentar evitar novo ataque ao Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">f0faa8db787f09ae</guid>
-<pubDate>Sun, 25 Oct 2026 15:47:37 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Explosões são relatadas perto de base de radar em Tabriz, no Irã; governo fala em descarte de munição</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">491cb21522a938ff</guid>
-<pubDate>Sun, 25 Oct 2026 15:37:24 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Cessar-fogo local em Oleshky, ocupada pela Rússia, deve começar dia 27; Melania Trump e papa Leão XIV disputam crédito</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">c53dee173a3dabfe</guid>
-<pubDate>Sun, 25 Oct 2026 15:31:19 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump minimiza gasolina cara e diz que EUA estão “ganhando uma fortuna” com petróleo em meio à crise com o Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">33c70b2fe4b426d8</guid>
-<pubDate>Sun, 25 Oct 2026 15:20:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
