@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 00:10:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:12:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Entra em vigor trégua entre Ucrânia e Rússia em Oleshky, cidade ocupada pelos russos, para permitir a entrada de ajuda humanitária</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2cfb5703720a4065</guid>
+<pubDate>Tue, 27 Oct 2026 01:07:27 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz em evento que “não começamos a guerra com o Irã, o Irã começou”, apesar de os primeiros ataques terem sido de EUA e Israel em 28 de fevereiro</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f5db894c6a6f633d</guid>
+<pubDate>Tue, 27 Oct 2026 00:22:56 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 New York Times: Netanyahu pressionou por semanas por novo ataque ao Irã antes da eleição, mas o chefe das FDI, Eyal Zamir, resistiu; Liberman pede investigação por traição e Netanyahu nega</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -517,18 +529,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">a2cb6c55418596da</guid>
 <pubDate>Sun, 25 Oct 2026 01:48:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump propõe tarifas de 200% a Ucrânia e Rússia para forçar paz; ucranianos reagem com indignação</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">538dd5d26a838468</guid>
-<pubDate>Sun, 25 Oct 2026 00:55:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Porta-aviões dos EUA reabastece com bunker-busters no Mar Arábico em meio a tensão com Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">de6f52f81c8e5c20</guid>
-<pubDate>Sat, 24 Oct 2026 23:10:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
