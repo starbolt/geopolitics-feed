@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 14:05:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 15:07:48 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title>🇾🇪 Houthis dizem ter atingido com mísseis balísticos dois aviões militares sauditas, no aeroporto de Najran e na base aérea King Khalid, em Khamis Mushait; Riad não confirma danos</title>
@@ -19,6 +19,18 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">79120c3f6716f5b1</guid>
 <pubDate>Tue, 27 Oct 2026 13:49:46 +0000</pubDate>
+</item>
+<item>
+<title>🇧🇷 Polícia Federal apura se Flávio Bolsonaro deixou o Brasil pela Argentina rumo aos EUA apesar de ordem do STF de apreensão do passaporte; aliados negam fuga</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b87201db0564b070</guid>
+<pubDate>Tue, 27 Oct 2026 13:30:41 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 CENTCOM desmente comandante naval da Guarda Revolucionária e diz que forças dos EUA seguem no Estreito de Ormuz, com o bloqueio a navios ligados ao Irã mantido</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">697e6b53a9124b98</guid>
+<pubDate>Tue, 27 Oct 2026 13:18:24 +0000</pubDate>
 </item>
 <item>
 <title>🇮🇷 Líder supremo do Irã, Mojtaba Khamenei, pede que condições de Teerã sejam atendidas para sair do impasse de “nem guerra nem paz”, após reunião sobre a segurança de Ormuz</title>
@@ -499,24 +511,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">33c70b2fe4b426d8</guid>
 <pubDate>Sun, 25 Oct 2026 15:20:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Ucrânia usa mísseis Storm Shadow contra fábrica Energiya em Yelets, que fornece baterias para mísseis russos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">69c1bea83488227c</guid>
-<pubDate>Sun, 25 Oct 2026 15:02:38 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump diz que ataque ao Irã pode vir “amanhã” ou virar acordo; 3º porta-aviões e fuzileiros navais a caminho</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d3c4f20b1c78885b</guid>
-<pubDate>Sun, 25 Oct 2026 14:55:45 +0000</pubDate>
-</item>
-<item>
-<title>🇬🇧 Reino Unido alerta para risco de guerra em cerca de 1.000 dias e pede que famílias estoquem suprimentos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">f57737317e84a47a</guid>
-<pubDate>Sun, 25 Oct 2026 14:12:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
