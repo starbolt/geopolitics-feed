@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 21:05:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 22:04:41 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇵🇱 EUA escolhem a Polônia para sediar a única instalação de manutenção de mísseis PAC-3, usados no sistema Patriot, fora do território americano</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">0ef6cfcfa939a111</guid>
+<pubDate>Tue, 27 Oct 2026 22:00:56 +0000</pubDate>
+</item>
+<item>
+<title>🇧🇷 EUA vão conceder vistos a Flávio Bolsonaro e sua família após a derrota para Lula, diz alto funcionário americano à AP</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">e25f001fd53075ad</guid>
+<pubDate>Tue, 27 Oct 2026 21:35:44 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇳 AIEA, a agência nuclear da ONU, diz não ter detectado esforços do Irã para reconstruir instalações nucleares atingidas por EUA e Israel</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">cc68be7ad0319bc5</guid>
+<pubDate>Tue, 27 Oct 2026 21:35:08 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Pesquisas de boca de urna em Israel dão ao Likud de Netanyahu 24 a 25 cadeiras, mas o bloco de direita fica abaixo das 61 necessárias; oposição de Eisenkot soma 50 a 53 e longa negociação de coalizão se desenha</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -523,30 +541,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">7ced653d90c54b88</guid>
 <pubDate>Sun, 25 Oct 2026 22:21:15 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Explosões abalam Sirik, no litoral iraniano perto de Ormuz; relatos não confirmados dizem que lançador de mísseis antinavio foi atingido logo após disparar contra o estreito</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d04ee52cf98ae777</guid>
-<pubDate>Sun, 25 Oct 2026 21:58:00 +0000</pubDate>
-</item>
-<item>
-<title>🇾🇪 Houthis dizem ter disparado dezenas de mísseis balísticos contra aeroporto e bases militares em Riad; aeroporto reabre só parcialmente</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">ffc952cb352b1bb0</guid>
-<pubDate>Sun, 25 Oct 2026 21:50:52 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump diz ter dois relatórios de inteligência “muito diferentes” sobre o Irã; memorando alerta para planos iranianos contra alvos e diplomatas dos EUA</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">888188505299cd6b</guid>
-<pubDate>Sun, 25 Oct 2026 21:31:18 +0000</pubDate>
-</item>
-<item>
-<title>🇻🇪 María Corina Machado volta à Venezuela após quase um ano no exílio, depois de negociações apoiadas pelos EUA</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">32c2d686703319d7</guid>
-<pubDate>Sun, 25 Oct 2026 21:11:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
