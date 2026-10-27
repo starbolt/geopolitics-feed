@@ -6,13 +6,31 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 22:04:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:12:51 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇳 Chefe da AIEA, Rafael Grossi, diz ao Conselho de Segurança da ONU que 440 kg de urânio altamente enriquecido do Irã seguem sem verificação e pede volta imediata dos inspetores</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">db5676fbd33ca82a</guid>
+<pubDate>Tue, 27 Oct 2026 23:00:01 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump diz em comício no Texas que atacar o Irã foi “uma das melhores coisas” que já fez e afirma que a guerra foi iniciada pelo Irã em 1979, não pelos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">8167e5951e3a1b8b</guid>
+<pubDate>Tue, 27 Oct 2026 22:09:01 +0000</pubDate>
+</item>
 <item>
 <title>🇵🇱 EUA escolhem a Polônia para sediar a única instalação de manutenção de mísseis PAC-3, usados no sistema Patriot, fora do território americano</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">0ef6cfcfa939a111</guid>
 <pubDate>Tue, 27 Oct 2026 22:00:56 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Putin recebe Pezeshkian no Kremlin; Rússia amplia para 800 os cientistas nucleares no Irã e planeja oito usinas no país enquanto EUA ameaçam atacar Teerã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">a61e63ba24426d20</guid>
+<pubDate>Tue, 27 Oct 2026 21:47:31 +0000</pubDate>
 </item>
 <item>
 <title>🇧🇷 EUA vão conceder vistos a Flávio Bolsonaro e sua família após a derrota para Lula, diz alto funcionário americano à AP</title>
@@ -523,24 +541,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">1271b2d971a06f15</guid>
 <pubDate>Sun, 25 Oct 2026 23:35:35 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump volta a declarar apoio a Netanyahu às vésperas da eleição em Israel, algo inédito para um presidente americano em exercício, e pede vitória para “terminar o trabalho” contra o Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">fdc92011e0d458d2</guid>
-<pubDate>Sun, 25 Oct 2026 23:03:10 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇳 EUA incentivam Orbán a disputar cargo de secretário-geral da ONU com possível apoio de Rússia e China, diz WSJ</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d026b6bb93136dab</guid>
-<pubDate>Sun, 25 Oct 2026 22:58:10 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Autoridades dos EUA dizem à i24NEWS que ataque ao Irã é questão de “quando, não se”; plano prevê campanha de três dias contra alvos nucleares, mísseis, portos e energia</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">7ced653d90c54b88</guid>
-<pubDate>Sun, 25 Oct 2026 22:21:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
