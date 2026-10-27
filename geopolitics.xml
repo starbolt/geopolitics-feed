@@ -6,8 +6,14 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 19:08:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 20:08:10 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇨🇦 Investigação da CBC aponta que o Irã financiou cerca de uma dúzia de ataques a tiros em Toronto contra sinagogas, uma escola e o consulado dos EUA, muitos após os bombardeios de EUA e Israel contra o Irã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">ef840c530cc22778</guid>
+<pubDate>Tue, 27 Oct 2026 19:33:58 +0000</pubDate>
+</item>
 <item>
 <title>🇬🇧 Reino Unido eleva alerta de viagem para 15 países do Oriente Médio, incluindo Israel, Irã, Egito, Jordânia, Catar e Emirados, citando alto risco de escalada repentina</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -31,6 +37,18 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">df06526336aa6f39</guid>
 <pubDate>Tue, 27 Oct 2026 18:41:44 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Satélites espiões russos teriam ajudado houthis e milícias iraquianas apoiadas pelo Irã a atacar oleodutos e a base aérea King Fahd, na Arábia Saudita, segundo a AP</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">e4f6c84074f5975e</guid>
+<pubDate>Tue, 27 Oct 2026 18:27:10 +0000</pubDate>
+</item>
+<item>
+<title>🇶🇦 Catar, mediador entre Washington e Teerã, diz que o Irã precisa mostrar “boas intenções”, como parar ameaças aos países do Golfo e reabrir Ormuz, para a mediação dar certo</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">0400e98bcb779ebe</guid>
+<pubDate>Tue, 27 Oct 2026 18:17:00 +0000</pubDate>
 </item>
 <item>
 <title>🇬🇧 Secretário de Defesa do Reino Unido, Wes Streeting, diz que o país tem pouco mais de mil dias para estar pronto para uma guerra, com meta de poder lutar e vencer até 2030 diante da ameaça russa</title>
@@ -511,12 +529,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">2c07d175a78df5de</guid>
 <pubDate>Sun, 25 Oct 2026 20:21:13 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Zelensky rejeita exigências russas sobre exército, neutralidade e território e descarta troca de terras proposta pelos EUA</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">124838a1401a6248</guid>
-<pubDate>Sun, 25 Oct 2026 19:45:20 +0000</pubDate>
 </item>
 </channel>
 </rss>
