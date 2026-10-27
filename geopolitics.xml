@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 13:01:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 14:05:05 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇾🇪 Houthis dizem ter atingido com mísseis balísticos dois aviões militares sauditas, no aeroporto de Najran e na base aérea King Khalid, em Khamis Mushait; Riad não confirma danos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">15c5dec4fab89a83</guid>
+<pubDate>Tue, 27 Oct 2026 13:56:12 +0000</pubDate>
+</item>
+<item>
+<title>🇨🇳 China anuncia envio de enviado especial ao Oriente Médio para evitar escalada, citando preocupação com combates que se espalham ao Mar Vermelho e ao Chifre da África</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">79120c3f6716f5b1</guid>
+<pubDate>Tue, 27 Oct 2026 13:49:46 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Líder supremo do Irã, Mojtaba Khamenei, pede que condições de Teerã sejam atendidas para sair do impasse de “nem guerra nem paz”, após reunião sobre a segurança de Ormuz</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">a2273e68d2beae54</guid>
+<pubDate>Tue, 27 Oct 2026 13:00:54 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Ben-Gvir defende que Israel conquiste toda a Faixa de Gaza e envie os refugiados palestinos para países europeus como França e Reino Unido</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -499,36 +517,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">f57737317e84a47a</guid>
 <pubDate>Sun, 25 Oct 2026 14:12:09 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇺 Rússia oferece diesel ilimitado aos EUA após acordo Trump-Putin; 1º petroleiro segue para Nova York</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">fe67fe7e3881645c</guid>
-<pubDate>Sun, 25 Oct 2026 13:36:42 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇦 Defesas sauditas interceptam mísseis hutis perto de Meca e Medina; coalizão abate dezenas</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">7e199098168c85a5</guid>
-<pubDate>Sun, 25 Oct 2026 13:23:19 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Presidente do Parlamento iraniano alerta: resposta a nova agressão será “além da imaginação”</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">6add37af74b777ee</guid>
-<pubDate>Sun, 25 Oct 2026 13:22:59 +0000</pubDate>
-</item>
-<item>
-<title>🇩🇿 Argélia aprova 1º envio de tropas ao exterior desde 1973 para proteger petróleo no Níger</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">f6f53304935f0673</guid>
-<pubDate>Sun, 25 Oct 2026 13:16:39 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇺 Kremlin prepara cúpula Trump-Putin-Xi; Zelensky confirma reunião EUA-Rússia-Ucrânia em Abu Dhabi</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">435b5572adeb6ed7</guid>
-<pubDate>Sun, 25 Oct 2026 13:04:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
