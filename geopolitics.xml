@@ -6,8 +6,44 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:08:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 21:05:44 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇱 Pesquisas de boca de urna em Israel dão ao Likud de Netanyahu 24 a 25 cadeiras, mas o bloco de direita fica abaixo das 61 necessárias; oposição de Eisenkot soma 50 a 53 e longa negociação de coalizão se desenha</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">070d5abf63878411</guid>
+<pubDate>Tue, 27 Oct 2026 20:58:03 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Governo Trump avalia suspender sanções ao Fundo Russo de Investimento Direto (RDIF), de Kirill Dmitriev, enviado econômico de Putin, como parte das negociações sobre a Ucrânia</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">6154b6ce88b5724c</guid>
+<pubDate>Tue, 27 Oct 2026 20:45:24 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇦 Embaixadora saudita nos EUA pede coalizão internacional contra os houthis e que sejam classificados como terroristas, comparando o grupo ao Estado Islâmico antes de sua ascensão</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">817cb6fe23cd086d</guid>
+<pubDate>Tue, 27 Oct 2026 20:20:33 +0000</pubDate>
+</item>
+<item>
+<title>🇬🇧 Reino Unido e Polônia assinam o Plano de Defesa de Varsóvia, de três anos, com cooperação em mísseis de defesa aérea, drones, munição e exercícios navais no Báltico para conter a Rússia no flanco leste da OTAN</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">ff0c426b51924b16</guid>
+<pubDate>Tue, 27 Oct 2026 20:20:19 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump sugere em comício no Texas que a Venezuela vire o 51º estado americano, ligando a ideia ao petróleo do país</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">39cb5af07f4dd8b0</guid>
+<pubDate>Tue, 27 Oct 2026 20:08:48 +0000</pubDate>
+</item>
+<item>
+<title>🇪🇺 Hungria, Eslováquia, República Tcheca e Bulgária se recusam a garantir novo empréstimo de € 45 bilhões da UE à Ucrânia, enquanto Zelensky pede ao menos € 70 bilhões para 2027</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">40ecddcfb1b63c10</guid>
+<pubDate>Tue, 27 Oct 2026 19:43:56 +0000</pubDate>
+</item>
 <item>
 <title>🇨🇦 Investigação da CBC aponta que o Irã financiou cerca de uma dúzia de ataques a tiros em Toronto contra sinagogas, uma escola e o consulado dos EUA, muitos após os bombardeios de EUA e Israel contra o Irã</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -511,24 +547,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">32c2d686703319d7</guid>
 <pubDate>Sun, 25 Oct 2026 21:11:16 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Netanyahu ameaça Irã com resposta “mais forte do que imaginam” se houver ataque para atrapalhar a eleição; TV diz que chefe das FDI, Zamir, resiste a atacar antes da votação</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b9a5a08757e85606</guid>
-<pubDate>Sun, 25 Oct 2026 20:50:10 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Comandante do CENTCOM sobrevoa o Estreito de Ormuz e diz que rotas principais estão livres de minas iranianas</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">23bb0b9686948e80</guid>
-<pubDate>Sun, 25 Oct 2026 20:42:22 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump diz que Taiwan “roubou” a indústria de chips dos EUA; Taipé rebate</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">2c07d175a78df5de</guid>
-<pubDate>Sun, 25 Oct 2026 20:21:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
