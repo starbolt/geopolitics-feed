@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Tue, 27 Oct 2026 17:14:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:13:19 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇬🇧 Secretário de Defesa do Reino Unido, Wes Streeting, diz que o país tem pouco mais de mil dias para estar pronto para uma guerra, com meta de poder lutar e vencer até 2030 diante da ameaça russa</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">cb37c69ac7ffc6bd</guid>
+<pubDate>Tue, 27 Oct 2026 18:06:47 +0000</pubDate>
+</item>
+<item>
+<title>🇹🇷 Comissão do Parlamento da Turquia aprova o Pacto de Defesa de Meca com Arábia Saudita e Paquistão, que trata ataque a um como ataque a todos; ratificação avança</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">c30bc9b8caab90ff</guid>
+<pubDate>Tue, 27 Oct 2026 18:05:11 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇪 Governo da Irlanda avança projeto para reformar ou abolir a “tripla trava” que limita o envio de tropas ao exterior; críticos veem fim da neutralidade e pedem plebiscito</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -493,12 +505,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">b3bb579932171c21</guid>
 <pubDate>Sun, 25 Oct 2026 18:51:49 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Pentágono lança plano FORTRESS: bases dos EUA devem operar 90 dias sem energia, água ou combustível civis</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">2dc7fa1bd736d0a7</guid>
-<pubDate>Sun, 25 Oct 2026 17:57:58 +0000</pubDate>
 </item>
 </channel>
 </rss>
