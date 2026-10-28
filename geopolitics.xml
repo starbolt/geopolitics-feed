@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 14:08:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 15:11:49 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇷🇺 Lavrov viaja aos EUA para chefiar a delegação russa na reunião de chanceleres do G20 em Atlanta, nesta semana</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">8c9a70b088d4e571</guid>
+<pubDate>Wed, 28 Oct 2026 15:09:30 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã considera inaceitável a proposta do Catar para encerrar a guerra com EUA e Israel, plano de sete dias com medidas graduais de confiança, diz alto funcionário iraniano à Reuters</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">78dafa3830c29995</guid>
+<pubDate>Wed, 28 Oct 2026 15:06:16 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Kremlin diz que EUA e Rússia combinaram negociar a paz na Ucrânia sem a participação da Europa, segundo o assessor Yuri Ushakov</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f05a0d3c3ebfa5d4</guid>
+<pubDate>Wed, 28 Oct 2026 14:23:39 +0000</pubDate>
+</item>
+<item>
+<title>🇹🇷 Turquia se diz pronta para assinar acordo de fronteira marítima com o Egito no Mediterrâneo, oferecendo ao Cairo mais de 15 mil km² além do que teria com a Grécia; marinhas fazem exercício conjunto em 4/11</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">546a0f1c665a2b47</guid>
+<pubDate>Wed, 28 Oct 2026 14:20:00 +0000</pubDate>
+</item>
 <item>
 <title>🇧🇷 Flávio Bolsonaro, derrotado por Lula, desembarca em Miami com a família depois de deixar o Brasil pela Argentina, apesar de ordem do STF de apreensão do passaporte; Trump diz aprovar a ida dele aos EUA</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -553,18 +577,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">20a5127288be5746</guid>
 <pubDate>Mon, 26 Oct 2026 15:16:52 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Forças dos EUA no Oriente Médio podem lançar ataques amplos contra instalações nucleares, bases e energia do Irã em até 96 horas após ordem de Trump; ação conjunta com Israel deve vir depois das eleições de meio de mandato de 3/11</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">90fc2a4bd008199a</guid>
-<pubDate>Mon, 26 Oct 2026 14:41:24 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Zelensky cobra Washington: há quase um mês Kiev espera aval do secretário de Defesa Hegseth para receber mísseis Patriot e NASAMS já pagos por aliados, em meio a ataques balísticos russos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">35d46bc679d59b9d</guid>
-<pubDate>Mon, 26 Oct 2026 14:16:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
