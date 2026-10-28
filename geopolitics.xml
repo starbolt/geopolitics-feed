@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 18:03:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:10:13 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Casa Branca diz ao Jerusalem Post que o Irã está em “situação muito ruim” econômica e militarmente, descarta novos ataques antes das eleições de meio de mandato e promete manter o bloqueio</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">0fb63d4445620d46</guid>
+<pubDate>Wed, 28 Oct 2026 18:07:17 +0000</pubDate>
+</item>
+<item>
+<title>🌐 Banco Mundial prevê alta de 23% nos preços das commodities em 2026 por causa da guerra no Oriente Médio e de outros choques</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">470e46006dec7137</guid>
+<pubDate>Wed, 28 Oct 2026 18:00:45 +0000</pubDate>
+</item>
 <item>
 <title>🇳🇱 Holanda anuncia pacote de € 500 milhões em ajuda militar à Ucrânia, focado em defesa aérea e drones, além de € 1,2 bilhão em ajuda não militar em três anos</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -541,30 +553,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">058eb61a9cb56fd3</guid>
 <pubDate>Mon, 26 Oct 2026 19:16:49 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇳 Índia aprova compras militares de cerca de 2,12 trilhões de rúpias, com obuses autopropulsados, helicópteros, defesa aérea e drones para Exército, Marinha e Força Aérea</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">07b229b3e172579c</guid>
-<pubDate>Mon, 26 Oct 2026 18:53:39 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Chefe do Mossad, Roman Gofman, e cúpula do serviço secreto se opõem a novo ataque ao Irã antes da eleição israelense, diz i24NEWS; racha se espalha pelo aparato de segurança</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">678e5327ad435e38</guid>
-<pubDate>Mon, 26 Oct 2026 18:39:06 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇳 Comissão de inquérito da ONU acusa Israel de crimes de guerra e crimes contra a humanidade nos territórios palestinos, incluindo extermínio, perseguição e tortura</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">6661eba9f0a7c2ff</guid>
-<pubDate>Mon, 26 Oct 2026 18:20:29 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇦 Arábia Saudita teria levado US$ 1 bilhão a Teerã para comprar cessar-fogo dos houthis, com mediação iraniana, diz Israel Hayom; informação ainda não confirmada</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">7a8f1e1aa36529ae</guid>
-<pubDate>Mon, 26 Oct 2026 18:10:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
