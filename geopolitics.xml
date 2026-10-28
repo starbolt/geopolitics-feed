@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 19:10:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 20:12:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇱 Com 88,6% dos votos apurados em Israel, bloco de Netanyahu tem 53 cadeiras projetadas, contra 48 do bloco de Eisenkot e 19 dos partidos árabes; nenhum lado alcança as 61 da maioria</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d8b4bfe82e8ad2c1</guid>
+<pubDate>Wed, 28 Oct 2026 19:54:49 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã divulga vídeo de propaganda simulando sabotagem de cabos submarinos de internet no Estreito de Ormuz; fontes de segurança dizem à Reuters que Teerã planeja atacar sete cabos se EUA e Israel retomarem os bombardeios</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">daf7da8d80eda717</guid>
+<pubDate>Wed, 28 Oct 2026 19:11:01 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇸 Casa Branca diz ao Jerusalem Post que o Irã está em “situação muito ruim” econômica e militarmente, descarta novos ataques antes das eleições de meio de mandato e promete manter o bloqueio</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -25,6 +37,12 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">8dffc4b1af4d3b0d</guid>
 <pubDate>Wed, 28 Oct 2026 17:55:41 +0000</pubDate>
+</item>
+<item>
+<title>🇪🇹 Etiópia recebe da Rússia 12 caças Su-35 um ano antes do previsto, durante a cúpula Rússia-África em Moscou; quatro baterias de defesa aérea S-400 estão a caminho</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">4bd5f4660e709efe</guid>
+<pubDate>Wed, 28 Oct 2026 17:55:18 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 EUA sancionam o Ministério da Defesa de Ruanda e o banco Zigama por apoio aos rebeldes do M23 no leste do Congo; Bessent cobra a retirada de tropas ruandesas</title>
@@ -535,24 +553,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">53a5610a501a2105</guid>
 <pubDate>Mon, 26 Oct 2026 20:27:55 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Secretário do Tesouro dos EUA, Scott Bessent, orienta iranianos a não pagar impostos e estocar combustível; prevê encolhimento de mais de 25% da economia do Irã até março com novas sanções</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">20ca5bf38587c0d5</guid>
-<pubDate>Mon, 26 Oct 2026 20:04:35 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Às vésperas da eleição, Gadi Eisenkot chama Netanyahu de “delirante” sobre ameaça nuclear do Irã; EUA discutiriam governo de união entre os dois após a votação</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">77bb1100fc490fdc</guid>
-<pubDate>Mon, 26 Oct 2026 19:30:03 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Drone dos EUA mata Abu Abd al-Rahman al-Libi, ex-comandante militar do grupo Hurras al-Din, ligado à Al-Qaeda, em rodovia entre Damasco e Homs, na Síria</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">058eb61a9cb56fd3</guid>
-<pubDate>Mon, 26 Oct 2026 19:16:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
