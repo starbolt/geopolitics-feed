@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:05:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 14:08:23 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇧🇷 Flávio Bolsonaro, derrotado por Lula, desembarca em Miami com a família depois de deixar o Brasil pela Argentina, apesar de ordem do STF de apreensão do passaporte; Trump diz aprovar a ida dele aos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">5c9428550736ad69</guid>
+<pubDate>Wed, 28 Oct 2026 14:00:08 +0000</pubDate>
+</item>
+<item>
+<title>🇬🇧 Reino Unido anuncia mais £ 10 bilhões para a Ucrânia, com £ 7 bilhões em ajuda econômica em três anos, £ 3 bilhões para exportação de armas e £ 500 milhões em ajuda militar urgente para o inverno</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">075ec6e838bd3bbb</guid>
+<pubDate>Wed, 28 Oct 2026 13:55:07 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Comando naval dos EUA no Oriente Médio orienta navios sem negócios na região a evitar o Estreito de Ormuz por causa de operações militares intensas; embarcações neutras podem ser abordadas e revistadas no bloqueio ao Irã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">8e2be42802887b45</guid>
+<pubDate>Wed, 28 Oct 2026 13:48:00 +0000</pubDate>
+</item>
 <item>
 <title>🇧🇬 Premiê búlgaro Rumen Radev acusa a Romênia de provocar ataques russos a navios no Mar Negro ao culpar Moscou publicamente; cargueiro CONTSHIP JET é atingido perto da costa búlgara, nono ataque em semanas</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -547,42 +565,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">35d46bc679d59b9d</guid>
 <pubDate>Mon, 26 Oct 2026 14:16:27 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Ministro da Defesa saudita, chefe do Exército paquistanês Asim Munir e chefe da inteligência turca Ibrahim Kalın se reúnem com Pezeshkian em Teerã; é o 1º encontro conjunto do Pacto de Meca com o Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">c53bdf1ba4cd2b13</guid>
-<pubDate>Mon, 26 Oct 2026 14:08:13 +0000</pubDate>
-</item>
-<item>
-<title>🇰🇵 Coreia do Norte expõe obuses autopropulsados apontados para o Sul a 1,5 km da fronteira; artilharia alcança partes da região de Seul</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">14be99fd2eadf261</guid>
-<pubDate>Mon, 26 Oct 2026 13:58:52 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇶 Navio-tanque pega fogo após ser atacado perto do porto de Basra, no Iraque; Irã já fez mais de duas dezenas de ataques a navios desde o início de outubro</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">90b869058a8d955d</guid>
-<pubDate>Mon, 26 Oct 2026 13:56:21 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇸 Movimento estudantil vence eleição na Sérvia com 52% e tira Vučić do poder após 14 anos; ele reconhece a derrota, mas alega interferência estrangeira</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">7d0733ca19dcd169</guid>
-<pubDate>Mon, 26 Oct 2026 13:44:58 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇩 Paramilitares da RSF atacam com drones cinco usinas de energia no Sudão e causam apagões; Exército sudanês diz que drones saíram do território da Etiópia</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">4f8717c375abc523</guid>
-<pubDate>Mon, 26 Oct 2026 13:44:09 +0000</pubDate>
-</item>
-<item>
-<title>🇪🇬 Egito aprova apoio militar à Arábia Saudita após escalada dos ataques houthis contra o reino</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">4c4ecb9b12ff9e76</guid>
-<pubDate>Mon, 26 Oct 2026 13:20:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
