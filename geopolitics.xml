@@ -6,8 +6,20 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 29 Oct 2026 15:22:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 17:16:14 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Marinha da Ucrânia diz ter destruído dois caças-bombardeiros russos Su-34 em ataque com mísseis de cruzeiro contra a base aérea de Marinovka</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">94af929d034d984b</guid>
+<pubDate>Thu, 29 Oct 2026 16:53:29 +0000</pubDate>
+</item>
+<item>
+<title>🇬🇷 Afunda o porta-contêineres CONTSHIP JET, fretado pela israelense ZIM e atingido por três drones navais no Mar Negro perto da Bulgária; premiê grego Mitsotakis pede uma trégua marítima global</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">3f4bce06e3a60681</guid>
+<pubDate>Thu, 29 Oct 2026 16:01:05 +0000</pubDate>
+</item>
 <item>
 <title>🇷🇺 Putin elogia a primeira-dama Melania Trump por ajudar a mediar a trégua local em Oleshky, cidade ucraniana ocupada pela Rússia, para entrada de ajuda e retirada de civis</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -21,10 +33,22 @@
 <pubDate>Thu, 29 Oct 2026 14:18:36 +0000</pubDate>
 </item>
 <item>
+<title>🇺🇸 Senador Chris Murphy, que recebeu informes sobre o plano de Trump para retomar a guerra com o Irã depois das eleições de meio de mandato, chama o plano de “insano” e alerta para nova escalada</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d78e615efcad1110</guid>
+<pubDate>Thu, 29 Oct 2026 14:15:10 +0000</pubDate>
+</item>
+<item>
 <title>🇻🇪 Presidente interina da Venezuela, Delcy Rodríguez, exige que o Banco da Inglaterra devolva cerca de 31 toneladas de ouro do país e acusa Londres de “roubo”</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">8ab141fac8b89592</guid>
 <pubDate>Thu, 29 Oct 2026 14:13:39 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇱 Israel pede aval de Trump para atacar instalações de energia do Irã ainda não atingidas caso os bombardeios sejam retomados, segundo autoridade israelense à emissora Kan</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d518248f1e9ff670</guid>
+<pubDate>Thu, 29 Oct 2026 13:47:53 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Empresas se recusam a comprar as cargas de diesel russo a caminho dos EUA por dúvidas sobre a legalidade da isenção de sanções dada pelo governo Trump</title>
@@ -481,30 +505,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">c30bc9b8caab90ff</guid>
 <pubDate>Tue, 27 Oct 2026 18:05:11 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇪 Governo da Irlanda avança projeto para reformar ou abolir a “tripla trava” que limita o envio de tropas ao exterior; críticos veem fim da neutralidade e pedem plebiscito</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">00a3c32df598831a</guid>
-<pubDate>Tue, 27 Oct 2026 17:13:01 +0000</pubDate>
-</item>
-<item>
-<title>🇾🇪 Houthis dizem ter atingido o Ministério da Defesa saudita em Riad com mísseis balísticos; petróleo Brent se aproxima de US$ 116 com a escalada</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">b884758e11b33d38</guid>
-<pubDate>Tue, 27 Oct 2026 16:50:30 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Três petroleiros russos com 140 mil toneladas de diesel seguem para os EUA, primeira importação desde a proibição de 2022, graças a isenção de sanções ligada a acordo de Trump com Putin; senadores dos dois partidos reagem</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d958556282425a2c</guid>
-<pubDate>Tue, 27 Oct 2026 15:55:37 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇴 Al-Shabaab embosca coluna de tropas de elite da Somália perto de Leego e mata dezenas de soldados, em grande revés da ofensiva do governo contra o grupo</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">aec73e68bc78d281</guid>
-<pubDate>Tue, 27 Oct 2026 15:54:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
