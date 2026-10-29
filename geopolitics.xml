@@ -6,8 +6,38 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 29 Oct 2026 19:16:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:22:22 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇷 Explosões e intensa atividade de defesa aérea na ilha de Qeshm, perto do Estreito de Ormuz; Guarda Revolucionária diz ter enfrentado um caça hostil e forçado sua retirada, sem confirmação independente</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">5e63349390d6b72c</guid>
+<pubDate>Thu, 29 Oct 2026 21:21:19 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Ao menos dez aviões de transporte militar americanos pousam em 24 horas nas bases israelenses de Ovda e Nevatim, alguns vindos de Fort Bliss, centro de defesa aérea dos EUA, em meio aos preparativos para possíveis ataques ao Irã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f0adf6bc921e814a</guid>
+<pubDate>Thu, 29 Oct 2026 21:21:11 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Rússia dispara barragem de mísseis balísticos contra Kiev à noite, com alerta máximo na capital e ataques a instalações de energia com a chegada do frio</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">1035ffa4b3845871</guid>
+<pubDate>Thu, 29 Oct 2026 21:19:43 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Irã confirma ter recebido a carta de JD Vance, mas o presidente do Parlamento, Ghalibaf, diz que não haverá resposta enquanto os EUA não cumprirem sete condições, como fim das ações militares, retirada de tropas e fim das sanções; Rússia se oferece para mediar</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">64c08dbb518eed03</guid>
+<pubDate>Thu, 29 Oct 2026 21:11:23 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇱 Israel investiga suspeita de financiamento do Catar e compra de votos na eleição; polícia prende sete suspeitos, Netanyahu fala em “terremoto político” e a apuração complica a formação do governo</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">068aa8ed871311d0</guid>
+<pubDate>Thu, 29 Oct 2026 20:55:59 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇦 Falhas do Starlink na Ucrânia podem estar ligadas à pressão da SpaceX por um contrato mais caro com o governo americano, segundo a revista The Atlantic; rede é vital para os drones ucranianos</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -427,54 +457,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">cc68be7ad0319bc5</guid>
 <pubDate>Tue, 27 Oct 2026 21:35:08 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Pesquisas de boca de urna em Israel dão ao Likud de Netanyahu 24 a 25 cadeiras, mas o bloco de direita fica abaixo das 61 necessárias; oposição de Eisenkot soma 50 a 53 e longa negociação de coalizão se desenha</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">070d5abf63878411</guid>
-<pubDate>Tue, 27 Oct 2026 20:58:03 +0000</pubDate>
-</item>
-<item>
-<title>🇦🇪 Emirados Árabes ajudam secretamente os houthis com dados de alvos contra forças do governo do Iêmen apoiadas pela Arábia Saudita, segundo quatro fontes ouvidas pelo Drop Site; todos negam</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">03b56851474780da</guid>
-<pubDate>Tue, 27 Oct 2026 20:55:36 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Governo Trump avalia suspender sanções ao Fundo Russo de Investimento Direto (RDIF), de Kirill Dmitriev, enviado econômico de Putin, como parte das negociações sobre a Ucrânia</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">6154b6ce88b5724c</guid>
-<pubDate>Tue, 27 Oct 2026 20:45:24 +0000</pubDate>
-</item>
-<item>
-<title>🇸🇦 Embaixadora saudita nos EUA pede coalizão internacional contra os houthis e que sejam classificados como terroristas, comparando o grupo ao Estado Islâmico antes de sua ascensão</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">817cb6fe23cd086d</guid>
-<pubDate>Tue, 27 Oct 2026 20:20:33 +0000</pubDate>
-</item>
-<item>
-<title>🇬🇧 Reino Unido e Polônia assinam o Plano de Defesa de Varsóvia, de três anos, com cooperação em mísseis de defesa aérea, drones, munição e exercícios navais no Báltico para conter a Rússia no flanco leste da OTAN</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">ff0c426b51924b16</guid>
-<pubDate>Tue, 27 Oct 2026 20:20:19 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Trump sugere em comício no Texas que a Venezuela vire o 51º estado americano, ligando a ideia ao petróleo do país</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">39cb5af07f4dd8b0</guid>
-<pubDate>Tue, 27 Oct 2026 20:08:48 +0000</pubDate>
-</item>
-<item>
-<title>🇪🇺 Hungria, Eslováquia, República Tcheca e Bulgária se recusam a garantir novo empréstimo de € 45 bilhões da UE à Ucrânia, enquanto Zelensky pede ao menos € 70 bilhões para 2027</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">40ecddcfb1b63c10</guid>
-<pubDate>Tue, 27 Oct 2026 19:43:56 +0000</pubDate>
-</item>
-<item>
-<title>🇨🇦 Investigação da CBC aponta que o Irã financiou cerca de uma dúzia de ataques a tiros em Toronto contra sinagogas, uma escola e o consulado dos EUA, muitos após os bombardeios de EUA e Israel contra o Irã</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">ef840c530cc22778</guid>
-<pubDate>Tue, 27 Oct 2026 19:33:58 +0000</pubDate>
 </item>
 </channel>
 </rss>
