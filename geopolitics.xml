@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:16:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:16:34 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇦 Falhas do Starlink na Ucrânia podem estar ligadas à pressão da SpaceX por um contrato mais caro com o governo americano, segundo a revista The Atlantic; rede é vital para os drones ucranianos</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">03da0d7b39352393</guid>
+<pubDate>Thu, 29 Oct 2026 19:15:09 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇦 Defesa aérea saudita intercepta dois mísseis balísticos dos houthis lançados contra Riad; Air France estende até 12/12 a suspensão dos voos para a capital saudita</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">3a7ab584a70591ce</guid>
+<pubDate>Thu, 29 Oct 2026 19:15:06 +0000</pubDate>
+</item>
+<item>
+<title>🇷🇺 Putin diz que a Rússia estará pronta para uma eventual guerra com a Europa até 2030, mas não a deseja, e alerta que uma escalada não teria vencedores</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">51015b66c9c1228e</guid>
+<pubDate>Thu, 29 Oct 2026 19:02:26 +0000</pubDate>
+</item>
 <item>
 <title>🇺🇦 Marinha da Ucrânia diz ter destruído dois caças-bombardeiros russos Su-34 em ataque com mísseis de cruzeiro contra a base aérea de Marinovka</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -457,54 +475,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">ef840c530cc22778</guid>
 <pubDate>Tue, 27 Oct 2026 19:33:58 +0000</pubDate>
-</item>
-<item>
-<title>🇬🇧 Reino Unido eleva alerta de viagem para 15 países do Oriente Médio, incluindo Israel, Irã, Egito, Jordânia, Catar e Emirados, citando alto risco de escalada repentina</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">e5b0b44959403454</guid>
-<pubDate>Tue, 27 Oct 2026 19:06:00 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Míssil russo atinge a ponte Pivdennyi, em Kiev, danificando a linha do metrô e fechando o tráfego nos dois sentidos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">a3ddf5f578af7abb</guid>
-<pubDate>Tue, 27 Oct 2026 19:03:08 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Comando Sul dos EUA retoma ataques a barcos de suposto narcotráfico e mata cinco no Pacífico oriental, primeira ação desde 23 de agosto</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">ad3b228f3399fc7f</guid>
-<pubDate>Tue, 27 Oct 2026 18:52:41 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Autoridade do Estreito de Ormuz do Irã aponta a sul-coreana Sinokor, maior frota de superpetroleiros do mundo, como principal infratora e ameaça medidas legais contra todos os seus navios a partir de 1º de novembro</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">df06526336aa6f39</guid>
-<pubDate>Tue, 27 Oct 2026 18:41:44 +0000</pubDate>
-</item>
-<item>
-<title>🇷🇺 Satélites espiões russos teriam ajudado houthis e milícias iraquianas apoiadas pelo Irã a atacar oleodutos e a base aérea King Fahd, na Arábia Saudita, segundo a AP</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">e4f6c84074f5975e</guid>
-<pubDate>Tue, 27 Oct 2026 18:27:10 +0000</pubDate>
-</item>
-<item>
-<title>🇶🇦 Catar, mediador entre Washington e Teerã, diz que o Irã precisa mostrar “boas intenções”, como parar ameaças aos países do Golfo e reabrir Ormuz, para a mediação dar certo</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">0400e98bcb779ebe</guid>
-<pubDate>Tue, 27 Oct 2026 18:17:00 +0000</pubDate>
-</item>
-<item>
-<title>🇬🇧 Secretário de Defesa do Reino Unido, Wes Streeting, diz que o país tem pouco mais de mil dias para estar pronto para uma guerra, com meta de poder lutar e vencer até 2030 diante da ameaça russa</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">cb37c69ac7ffc6bd</guid>
-<pubDate>Tue, 27 Oct 2026 18:06:47 +0000</pubDate>
-</item>
-<item>
-<title>🇹🇷 Comissão do Parlamento da Turquia aprova o Pacto de Defesa de Meca com Arábia Saudita e Paquistão, que trata ataque a um como ataque a todos; ratificação avança</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">c30bc9b8caab90ff</guid>
-<pubDate>Tue, 27 Oct 2026 18:05:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
