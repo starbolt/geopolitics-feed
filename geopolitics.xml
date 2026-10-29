@@ -6,8 +6,26 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 28 Oct 2026 20:12:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 01:30:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Embaixada dos EUA em Riad emite alerta de segurança por risco de ataques dos houthis a aeroportos e infraestrutura civil na Arábia Saudita; funcionários não essenciais do governo americano e suas famílias já receberam ordem de deixar o país</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">3bc4eb32143d01ee</guid>
+<pubDate>Thu, 29 Oct 2026 00:43:23 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 A mando de Trump, o vice-presidente JD Vance envia carta a Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional do Irã e ex-comandante da Guarda Revolucionária, para tentar reabrir negociações antes de possíveis ataques após as eleições de meio de mandato</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2f9d2b2898da637d</guid>
+<pubDate>Wed, 28 Oct 2026 23:18:02 +0000</pubDate>
+</item>
+<item>
+<title>🇵🇰 Paquistão recua horas depois e volta a liberar o sobrevoo das companhias aéreas de Taiwan, EVA Air e China Airlines, com autorização válida até março de 2027</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d6d29116f5e1d7f5</guid>
+<pubDate>Wed, 28 Oct 2026 23:17:54 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇱 Com 88,6% dos votos apurados em Israel, bloco de Netanyahu tem 53 cadeiras projetadas, contra 48 do bloco de Eisenkot e 19 dos partidos árabes; nenhum lado alcança as 61 da maioria</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
