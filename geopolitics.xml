@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 30 Oct 2026 17:24:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 19:22:46 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇾🇪 Houthis disparam mísseis balísticos contra o aeroporto internacional de Aden e o complexo do palácio presidencial de Maashiq, sede do governo do Iêmen reconhecido internacionalmente, segundo militares iemenitas</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">b8c9de4ed7f3d137</guid>
+<pubDate>Fri, 30 Oct 2026 18:40:00 +0000</pubDate>
+</item>
+<item>
+<title>🇵🇰 Militares do Paquistão dizem estar “cautelosamente otimistas” com a mediação entre EUA e Irã após duas visitas do marechal Asim Munir a Teerã, mas alertam para “sabotadores poderosos” que preferem a guerra</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">27b3d3f855c657cc</guid>
+<pubDate>Fri, 30 Oct 2026 18:20:17 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇦 Coalizão saudita diz ter derrubado um drone sobre a região de Riad e um míssil balístico dos houthis lançado contra o sul da Arábia Saudita</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d1da19e50e09a5d5</guid>
+<pubDate>Fri, 30 Oct 2026 17:50:52 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Trump pede corte marcial e prisão para o tenente-general Brett Sylvia, afastado do Estado-Maior Conjunto sob acusação de vazar à imprensa dados sigilosos sobre as guerras no Irã e na Ucrânia</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">94c64e16a8c6e0c6</guid>
+<pubDate>Fri, 30 Oct 2026 17:36:50 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇷 Guarda Revolucionária diz que três petroleiros pegaram fogo no Estreito de Ormuz ao usar rotas “não autorizadas”, entre eles um superpetroleiro com mais de 2 milhões de barris, e afirma ter destruído um barco não tripulado dos EUA, sem confirmação americana</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -331,36 +355,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">d8b4bfe82e8ad2c1</guid>
 <pubDate>Wed, 28 Oct 2026 19:54:49 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇷 Irã divulga vídeo de propaganda simulando sabotagem de cabos submarinos de internet no Estreito de Ormuz; fontes de segurança dizem à Reuters que Teerã planeja atacar sete cabos se EUA e Israel retomarem os bombardeios</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">daf7da8d80eda717</guid>
-<pubDate>Wed, 28 Oct 2026 19:11:01 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Casa Branca diz ao Jerusalem Post que o Irã está em “situação muito ruim” econômica e militarmente, descarta novos ataques antes das eleições de meio de mandato e promete manter o bloqueio</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">0fb63d4445620d46</guid>
-<pubDate>Wed, 28 Oct 2026 18:07:17 +0000</pubDate>
-</item>
-<item>
-<title>🌐 Banco Mundial prevê alta de 23% nos preços das commodities em 2026 por causa da guerra no Oriente Médio e de outros choques</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">470e46006dec7137</guid>
-<pubDate>Wed, 28 Oct 2026 18:00:45 +0000</pubDate>
-</item>
-<item>
-<title>🇳🇱 Holanda anuncia pacote de € 500 milhões em ajuda militar à Ucrânia, focado em defesa aérea e drones, além de € 1,2 bilhão em ajuda não militar em três anos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">8dffc4b1af4d3b0d</guid>
-<pubDate>Wed, 28 Oct 2026 17:55:41 +0000</pubDate>
-</item>
-<item>
-<title>🇪🇹 Etiópia recebe da Rússia 12 caças Su-35 um ano antes do previsto, durante a cúpula Rússia-África em Moscou; quatro baterias de defesa aérea S-400 estão a caminho</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">4bd5f4660e709efe</guid>
-<pubDate>Wed, 28 Oct 2026 17:55:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
