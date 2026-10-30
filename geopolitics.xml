@@ -6,8 +6,44 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 30 Oct 2026 19:22:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 21:15:28 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇮🇷 Navio comercial é atingido por projétil desconhecido e pega fogo a cerca de 40 milhas náuticas ao sul da ilha iraniana de Lavan, no Golfo Pérsico, segundo a agência marítima britânica UKMTO; é ao menos o quarto incêndio em navio na região em poucos dias</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">1eed985aea3f0900</guid>
+<pubDate>Fri, 30 Oct 2026 20:30:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Departamento de Estado dos EUA aprova venda de US$ 2,1 bilhões em mísseis Patriot e outros equipamentos à Ucrânia, paga por países parceiros</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">53fbb55eeb5534d7</guid>
+<pubDate>Fri, 30 Oct 2026 20:20:00 +0000</pubDate>
+</item>
+<item>
+<title>🇪🇺 União Europeia e Canadá anunciam aliança para reforçar suas relações diante das medidas de Trump para romper laços dos EUA com antigos parceiros</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">e3ccb1d288fa97dd</guid>
+<pubDate>Fri, 30 Oct 2026 20:15:00 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇷 Guarda Revolucionária diz ter capturado intacto, por guerra eletrônica, um segundo drone americano MQM-170 Outlaw sobre a ilha de Qeshm; EUA chamaram de falsa a alegação da primeira captura</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">2afc74e35101ccdc</guid>
+<pubDate>Fri, 30 Oct 2026 20:09:00 +0000</pubDate>
+</item>
+<item>
+<title>🇸🇦 Coalizão saudita diz ter destruído um drone dos houthis sobre a região de Medina, segunda cidade mais sagrada do islã</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">196ffd03b5271a22</guid>
+<pubDate>Fri, 30 Oct 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
+<title>🇨🇦 Investigação da CBC liga série de tiroteios em Toronto contra sinagogas, uma escola judaica e o consulado dos EUA a possível financiamento do Irã; oposição pede expulsão de agentes da Guarda Revolucionária</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">7196926573fb0ae7</guid>
+<pubDate>Fri, 30 Oct 2026 19:44:00 +0000</pubDate>
+</item>
 <item>
 <title>🇾🇪 Houthis disparam mísseis balísticos contra o aeroporto internacional de Aden e o complexo do palácio presidencial de Maashiq, sede do governo do Iêmen reconhecido internacionalmente, segundo militares iemenitas</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -349,12 +385,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">d6d29116f5e1d7f5</guid>
 <pubDate>Wed, 28 Oct 2026 23:17:54 +0000</pubDate>
-</item>
-<item>
-<title>🇮🇱 Com 88,6% dos votos apurados em Israel, bloco de Netanyahu tem 53 cadeiras projetadas, contra 48 do bloco de Eisenkot e 19 dos partidos árabes; nenhum lado alcança as 61 da maioria</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">d8b4bfe82e8ad2c1</guid>
-<pubDate>Wed, 28 Oct 2026 19:54:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
