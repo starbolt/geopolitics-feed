@@ -6,13 +6,37 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Fri, 30 Oct 2026 23:23:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 01:22:47 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇵🇱 Crise institucional na Polônia: tropa de choque cerca o Tribunal Constitucional em Varsóvia quando o presidente entra no prédio, após a suspensão do chefe da corte; embaixador dos EUA pede calma diante do “confronto sem precedentes”</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">97de21f93158129d</guid>
+<pubDate>Sat, 31 Oct 2026 01:01:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 Drones russos atingem instalação de energia crítica em Kiev e deixam quatro distritos da capital sem luz e com falhas no abastecimento de água, segundo o prefeito Vitali Klitschko</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">16aa3fb37075fd82</guid>
+<pubDate>Sat, 31 Oct 2026 00:55:00 +0000</pubDate>
+</item>
+<item>
+<title>🇧🇷 Trump e Milei são pressionados a explicar o papel de EUA e Argentina na fuga de Flávio Bolsonaro do Brasil depois que ele teve os passaportes cancelados, segundo a AFP</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f5fd6ff487c48843</guid>
+<pubDate>Fri, 30 Oct 2026 23:15:00 +0000</pubDate>
+</item>
 <item>
 <title>🇷🇺 Na reunião do G20 em Atlanta, chanceler britânico Ed Miliband confronta Lavrov e diz que a Rússia “não vai vencer” a guerra; ministros europeus se recusam a posar ao lado do russo e a foto oficial é cancelada</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">98b69849cb36a943</guid>
 <pubDate>Fri, 30 Oct 2026 23:10:00 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇸 Governo Trump avisa aliados do Golfo para se prepararem para ataques “curtos e intensos” dos EUA ao Irã a partir de 4 de novembro, um dia depois das eleições de meio de mandato, segundo a MS NOW</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">d3769beb0206cb7a</guid>
+<pubDate>Fri, 30 Oct 2026 22:34:00 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Relatório do Tesouro dos EUA diz que sanções e bloqueio naval zeraram as exportações de petróleo do Irã desde o fim de agosto; rial bate recorde de baixa e inflação chega a 90%</title>
@@ -391,12 +415,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">757891d2bfca366d</guid>
 <pubDate>Thu, 29 Oct 2026 02:50:11 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Embaixada dos EUA em Riad emite alerta de segurança por risco de ataques dos houthis a aeroportos e infraestrutura civil na Arábia Saudita; funcionários não essenciais do governo americano e suas famílias já receberam ordem de deixar o país</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">3bc4eb32143d01ee</guid>
-<pubDate>Thu, 29 Oct 2026 00:43:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
