@@ -6,8 +6,14 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 08 Nov 2026 21:25:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 23:25:00 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>🇺🇸 Secretário de Estado Marco Rubio diz que as negociações com o Irã não avançaram e chama as exigências de Teerã de “ultrajantes” e irrealistas, esfriando a esperança de acordo; o diesel segue perto de US$ 6,30 o galão nos EUA</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">829a3460ee8b2040</guid>
+<pubDate>Sun, 08 Nov 2026 22:32:37 +0000</pubDate>
+</item>
 <item>
 <title>🇮🇷 Explosões atingem a ilha de Qeshm e Bandar Abbas, no Estreito de Ormuz, pela terceira noite seguida; a mídia iraniana fala em ataques a defesas antiaéreas, enquanto outros veículos citam exercícios militares e não há confirmação oficial</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
@@ -241,12 +247,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">8fa8f0cba4292104</guid>
 <pubDate>Sat, 07 Nov 2026 06:28:35 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇦 Zelensky alerta que a Rússia prepara ataques a usinas de energia e pontes do rio Dnipro, diz que Kiev sofre os apagões mais longos após ataques a subestações e pede entrega urgente de mísseis Patriot</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">0cc613c878694534</guid>
-<pubDate>Fri, 06 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
