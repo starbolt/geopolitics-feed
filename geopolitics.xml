@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml" rel="self" type="application/rss+xml"/>
 <description>Últimas notícias filtradas de geopolítica em português.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 08 Nov 2026 15:18:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 17:22:37 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title>🇸🇦 Mísseis houthis atingem a torre administrativa da Aramco no distrito financeiro de Riad; a defesa saudita intercepta mísseis balísticos e de cruzeiro e atribui os danos a estilhaços, em escalada do conflito entre Arábia Saudita e Iêmen</title>
@@ -21,10 +21,22 @@
 <pubDate>Sun, 08 Nov 2026 15:10:46 +0000</pubDate>
 </item>
 <item>
+<title>🇪🇺 França anuncia que a Europa vai participar das conversas de paz entre EUA, Ucrânia e Rússia em Abu Dhabi; Moscou havia se oposto à presença europeia</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">136ef6f9e73d6ea2</guid>
+<pubDate>Sun, 08 Nov 2026 14:26:29 +0000</pubDate>
+</item>
+<item>
 <title>🇷🇺 Drone ucraniano danifica ponte da rodovia R-280 sobre o rio Mius, na região russa de Rostov, rota de abastecimento da Rússia até a Crimeia ocupada; o tráfego é interrompido</title>
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">b019cbe0e9e50cf5</guid>
 <pubDate>Sun, 08 Nov 2026 14:11:26 +0000</pubDate>
+</item>
+<item>
+<title>🇮🇪 Inteligência da Irlanda suspeita que a Rússia esteja por trás de uma onda de ameaças falsas de bomba que afetou ao menos 50 voos, escolas e a emissora RTÉ, às vésperas de uma cúpula de líderes europeus em Dublin</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">4d62390b3d78753a</guid>
+<pubDate>Sun, 08 Nov 2026 13:55:49 +0000</pubDate>
 </item>
 <item>
 <title>🇺🇸 Democratas, que conquistaram Câmara e Senado nas eleições de meio de mandato, preparam pacote de US$ 15 bilhões em ajuda militar à Ucrânia, com interceptadores de defesa aérea e reparos na rede elétrica; Trump critica</title>
@@ -37,6 +49,12 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">f73a8297f684b4f6</guid>
 <pubDate>Sun, 08 Nov 2026 13:43:33 +0000</pubDate>
+</item>
+<item>
+<title>🇺🇦 AIEA confirma que a usina nuclear de Zaporizhzhia, a maior da Europa, perdeu a última conexão elétrica externa e passou a operar com geradores a diesel, com combustível para cerca de duas semanas</title>
+<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
+<guid isPermaLink="false">f00877f093357604</guid>
+<pubDate>Sun, 08 Nov 2026 12:55:04 +0000</pubDate>
 </item>
 <item>
 <title>🇨🇳 Autoridades da Rússia, dos EUA e da China trabalham em uma possível cúpula inédita entre Trump, Xi e Putin durante a APEC em Shenzhen, nos dias 18 e 19 de novembro</title>
@@ -181,12 +199,6 @@
 <link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
 <guid isPermaLink="false">69f231b48a3aba9a</guid>
 <pubDate>Fri, 06 Nov 2026 19:36:21 +0000</pubDate>
-</item>
-<item>
-<title>🇺🇸 Departamento de Estado dos EUA oferece recompensa de até US$ 20 milhões por informações sobre o programa nuclear do Irã, instalações, cientistas e ativos ocultos</title>
-<link>https://raw.githubusercontent.com/starbolt/geopolitics-feed/main/geopolitics.xml</link>
-<guid isPermaLink="false">05c57c09dba0ae58</guid>
-<pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
